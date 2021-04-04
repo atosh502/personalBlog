@@ -6,4 +6,4 @@ socialImage: /media/image-2.jpg
 draft: false
 ---
 Hi. 
-My name is Aashutosh Poudel.
+My name is Aashutosh Poudel. I am working as a software engineer. 
