@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Aashutosh Poudel',
+  subtitle: 'Software engineer with a keen interest in systems programming, databases, networked and distributed web applications.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -19,25 +19,21 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Aashutosh Poudel',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Software engineer with a keen interest in systems programming, databases, networked and distributed web applications.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'aashutoshpoudyal@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: 'aashu_tosh_p',
+      github: 'atosh502',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'atosh502',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
